@@ -20,7 +20,6 @@ leetcode 700 在二叉查找树种查找
 分析:
 1 二叉查找树为有序的
 2 不同与递归的遍历，每个分支的继续对其他分支都是一种没可能，因此 进入每个分支前 都要return
-
 ```
 /**
  * Definition for a binary tree node.
